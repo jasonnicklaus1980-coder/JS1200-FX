@@ -1,0 +1,1 @@
+{"kit":"amber","pages":[{"name":"COLOR","controls":[{"param":"Mix","widget":"fader"},{"param":"Rate","widget":"knob"},{"param":"Bits","widget":"knob"},{"param":"Path","widget":"slider","overlay":"menu"},{"param":"Cutoff","widget":"knob"},{"param":"Resonance","widget":"knob"},{"param":"Drive","widget":"knob"},{"param":"Output","widget":"fader"}]}]}

@@ -1,0 +1,13 @@
+/build/
+/dist/
+/visual-draft/
+/.toolchain/
+__pycache__/
+*.py[cod]
+*.swp
+*~
+.DS_Store
+.env
+.env.*
+*.pem
+*.key

@@ -1,0 +1,15 @@
+{
+  "name": "JS1200 FX",
+  "manufacturer": "Shannon Instruments",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "effect",
+  "uid": "SXF1",
+  "numInputs": 2,
+  "numOutputs": 2,
+  "category": "Effect",
+  "file32": "VST/js1200-fx-arm32.so",
+  "description": "Stereo 12-bit-inspired color effect.",
+  "author": "Shannon Instruments",
+  "license": "MIT"
+}
